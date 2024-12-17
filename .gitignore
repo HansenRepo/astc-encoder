@@ -43,3 +43,12 @@ Source/astcenccli_version.h
 
 # Do not ignore workflows
 !.github/workflows/
+
+# iOS
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+xcschememanagement.plist
+*.ipa
+*.dSYM.zip
+**/xcshareddata/WorkspaceSettings.xcsettings
